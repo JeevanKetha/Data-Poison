@@ -1,2 +1,2 @@
-python DistributedCenterServer.py
+python Worker1.py
 pause

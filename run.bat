@@ -1,2 +1,0 @@
-python DistributedCenterServer.py
-pause
